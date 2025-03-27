@@ -1,5 +1,4 @@
-# Traffic Accident Analysis in Thailand (2024)
-MINI project : Thailand Road Traffic Accident Analysis 2024  
+MINI Project: Thailand Road Traffic Accident Analysis 2024  
 ---  
 ### <p align="center">จุดประสงค์ </p>   
 + ศึกษาถึงสถิติอุบัติเหตุทางถนนที่เกิดขึ้นในประเทศไทยในปีพ.ศ.2567  
